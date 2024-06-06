@@ -10,8 +10,6 @@ This notebook is designed to predict sales based on provided datasets. The follo
 
 2. **Data Preprocessing**
    - Handle missing values.
-   - Encode categorical variables.
-   - Normalize or scale the data if necessary.
 
 3. **Exploratory Data Analysis (EDA)**
    - Visualize key data features.
